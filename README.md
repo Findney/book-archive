@@ -92,9 +92,3 @@ Pengguna dapat memasukkan nomor menu untuk melakukan operasi yang diinginkan.
 - **readline** – Input interaktif di terminal  
 - **fs (File System)** – Manipulasi file JSON dan CSV  
 - **console.table** – Menampilkan data dalam format tabel  
-
----
-
-## 📜 Lisensi
-Proyek ini dirilis di bawah lisensi **MIT**. Silakan gunakan dan modifikasi sesuai kebutuhan Anda. 🚀
-
