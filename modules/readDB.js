@@ -1,6 +1,6 @@
 const fs = require("fs").promises;
 
-const FILE_PATH = "/home/agil/Documents/sem-6/PPL/lab/Task/2/tugas-2-lab-ppl/databases/db_arsip_buku.json";
+const FILE_PATH = "../databases/db_arsip_buku.json";
 
 const readDatabase = async () => {
     try {
