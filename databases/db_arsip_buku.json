@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": "2018",
+    "publisher": "Penguin Books",
+    "genre": "Self-Improvement",
+    "pages": 320,
+    "isbn": "978-0735211292",
+    "status": "Dipinjam"
+  },
+  {
+    "title": "Easy Speaking",
+    "author": "M. Haris Shofya",
+    "year": "2019",
+    "publisher": "Azhar Risalah",
+    "genre": "Education",
+    "pages": "357",
+    "isbn": "978-602-5739-26-2",
+    "status": "Tersedia"
+  }
+]
