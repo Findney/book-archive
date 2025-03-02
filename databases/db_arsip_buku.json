@@ -1,22 +1,52 @@
 [
   {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "publisher": "Harper",
+    "genre": "Sejarah",
+    "pages": 464,
+    "isbn": "9780062316097",
+    "status": "Tersedia"
+  },
+  {
     "title": "Atomic Habits",
     "author": "James Clear",
-    "year": "2018",
-    "publisher": "Penguin Books",
-    "genre": "Self-Improvement",
+    "year": 2018,
+    "publisher": "Penguin Random House",
+    "genre": "Pengembangan Diri",
     "pages": 320,
-    "isbn": "978-0735211292",
+    "isbn": "9780735211292",
     "status": "Dipinjam"
   },
   {
-    "title": "Easy Speaking",
-    "author": "M. Haris Shofya",
-    "year": "2019",
-    "publisher": "Azhar Risalah",
-    "genre": "Education",
-    "pages": "357",
-    "isbn": "978-602-5739-26-2",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "year": 1999,
+    "publisher": "Addison-Wesley",
+    "genre": "Teknologi",
+    "pages": 352,
+    "isbn": "9780201616224",
     "status": "Tersedia"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "year": 1997,
+    "publisher": "Plata Publishing",
+    "genre": "Bisnis & Keuangan",
+    "pages": 336,
+    "isbn": "9781612680194",
+    "status": "Tersedia"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "publisher": "J.B. Lippincott & Co.",
+    "genre": "Fiksi Klasik",
+    "pages": 281,
+    "isbn": "9780061120084",
+    "status": "Dipinjam"
   }
 ]
