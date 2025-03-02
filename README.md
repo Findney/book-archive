@@ -31,10 +31,6 @@ npm install
 ```bash
 npm run dev
 ```
-atau  
-```bash
-node index.js
-```
 
 ---
 
@@ -57,17 +53,18 @@ Pengguna dapat memasukkan nomor menu untuk melakukan operasi yang diinginkan.
 ## 📂 Struktur Folder
 ```
 /project-root
-│── dataset.json          # Database utama (JSON)
-│── index.js              # Entry point aplikasi
+│── database
+    ├── db_arsip_buku.json  # Database utama (JSON)
+│── index.js                # Entry point aplikasi
 │── modules/
-│   ├── add.js            # Menambahkan buku baru
-│   ├── delete.js         # Menghapus buku
-│   ├── update.js         # Memperbarui buku
-│   ├── display.js        # Menampilkan dan mencari buku
-│   ├── export.js         # Mengekspor ke CSV
-│   ├── readDB.js         # Membaca dan menulis database JSON
-│── package.json          # Konfigurasi Node.js
-│── README.md             # Dokumentasi proyek
+│   ├── add.js              # Menambahkan buku baru
+│   ├── delete.js           # Menghapus buku
+│   ├── update.js           # Memperbarui buku
+│   ├── display.js          # Menampilkan dan mencari buku
+│   ├── export.js           # Mengekspor ke CSV
+│   ├── readDB.js           # Membaca dan menulis database JSON
+│── package.json            # Konfigurasi Node.js
+│── README.md               # Dokumentasi proyek
 ```
 
 ---
