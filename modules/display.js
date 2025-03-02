@@ -26,7 +26,7 @@ const displayAllBooks = async () => {
 
 // Mencari buku berdasarkan nama (pencarian parsial)
 const searchBookByName = async (name) => {
-    const books = await readDatabase();  // Perbaikan: Tambahkan await
+    const books = await readDatabase();
     const filteredBooks = books.filter((book) => book.title.toLowerCase().includes(name.toLowerCase()));
 
     if (filteredBooks.length === 0) {
